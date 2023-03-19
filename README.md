@@ -17,7 +17,7 @@ A imagem de nosso projeto Go precisa ter menos de 2MB =)
 
 ## Utilizando o multi-stage build para compilar e otimizar a imagem
 
-# Dockerfile
+### Dockerfile
 
 - Stage 1
 
